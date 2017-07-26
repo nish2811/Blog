@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/actionAdd"
+        android:icon="@mipmap/ic_add_black_24dp"
+        android:title="Add Post"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/actionSetting"
+        android:title="Settings"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/actionSetting2"
+        android:title="Other Settings"
+        app:showAsAction="never"></item>
+
+</menu>
